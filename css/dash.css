@@ -1,0 +1,235 @@
+.container{
+    
+position: fixed;
+width: 100%;
+height: 110px;
+left: 120px;
+top: 0px;
+
+background: rgb(255, 123, 0);
+}
+.container2{
+    position: absolute;
+width: 555px;
+height: 46px;
+left: 222px;
+top: 25px;
+
+background: #fff;
+border-radius: 15px;
+}
+.container2 marquee h2{
+size: 50px;
+font-family: serif;
+}
+.a a{
+    position: fixed;
+width: 58px;
+height: 24px;
+left: 70%;
+top: 34px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+background: fixed;
+text-decoration: none;
+}
+.a:hover{
+    opacity: .5;
+    cursor: pointer;
+}
+.b a{
+    position: fixed;
+width: 61px;
+height: 24px;
+left: 80%;
+top: 34px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+text-decoration: none;
+}
+.b:hover{
+    opacity: .5;
+    cursor: pointer;
+}
+.c a{
+    position: fixed;
+width: 61px;
+height: 24px;
+left: 90%;
+top: 34px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+text-decoration: none;
+
+}
+.c:hover{
+    opacity: .5;
+    cursor: pointer;
+}
+.d1 a{
+    position: absolute;
+width: 294px;
+height: 400px;
+left: 61px;
+top: 356px;
+
+background: #3CA1C1;
+border-radius: 45px;
+}
+.e{
+    position: absolute;
+width: 163px;
+height: 24px;
+left: 145px;
+top: 420px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+.f{
+    position: absolute;
+width: 79px;
+height: 24px;
+left: 167px;
+top: 478px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+}
+.g img{
+    position: absolute;
+width: 139px;
+height: 139px;
+left: 138px;
+top: 595px;
+
+border-radius: 465px;
+}
+.d2 a{
+    position: absolute;
+width: 294px;
+height: 400px;
+left: 559px;
+top: 347px;
+
+background: #3CA1C1;
+border-radius: 45px;
+}
+.h{
+    position: absolute;
+    width: 163px;
+    height: 24px;
+    left: 624px;
+    top: 420px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #181818;
+    
+}
+.i{
+    position: absolute;
+width: 62px;
+height: 24px;
+left: 675px;
+top: 473px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #121212;
+
+}
+.j img{
+    position: absolute;
+    width: 136px;
+    height: 139px;
+    left: 638px;
+    top: 595px;
+    
+    border-radius: 100px;
+}
+.d3 a{
+    position: absolute;
+width: 294px;
+height: 400px;
+left: 1056px;
+top: 347px;
+
+background: #3CA1C1;
+border-radius: 45px;
+  }
+  .k{
+    position: absolute;
+width: 163px;
+height: 24px;
+left: 1123px;
+top: 427px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+  }
+  .l{
+    position: absolute;
+width: 62px;
+height: 24px;
+left: 1173px;
+top: 473px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #121212;
+  }
+  .m img{
+    position: absolute;
+width: 139px;
+height: 139px;
+left: 1147px;
+top: 595px;
+
+border-radius: 180px;
+  }
